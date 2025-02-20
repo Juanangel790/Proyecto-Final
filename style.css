@@ -1,0 +1,31 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: grey;
+    font-size: 80px;
+}
+
+#submenu1 {
+    color: black;
+    font-size: 40px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 300px;
+}
+
+#submenu2 {
+    color: black;
+    font-size: 40px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 380px;
+}
+
+button {
+    position: absolute;
+    top: 450px;
+}
