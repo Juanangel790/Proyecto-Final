@@ -46,7 +46,6 @@ ul.menu {
     padding: 20px;
     background-color: white; /* Fondo blanco para todo el menú */
     border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave alrededor del menú */
     width: 400px; /* Ancho del menú */
     margin: 0; /* Centra el menú en la página */
 }
