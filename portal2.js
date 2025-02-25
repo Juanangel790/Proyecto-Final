@@ -16,3 +16,7 @@ menuItems.forEach(item => {
     item.addEventListener('click', mostrarAlerta);
 });
 
+function reproducirSonido() {
+    var sonido = document.getElementById("son-desp");
+    sonido.play(); // Reproduce el sonido cuando el mouse pasa sobre el elemento
+}
